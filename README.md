@@ -4,7 +4,7 @@ This repository is a collection of handy Python scripts designed to assist you i
 
 # Available Scripts:
 
-## [Color Detection Script](detect_specific_color_in_image.py):
+## [1. Color Detection Script:](detect_specific_color_in_image.py)
 
 This Python script enables users to detect specific colors within images/videos. <br>
 `Note:` The format of the color a user enters should be in BGR (Blue-Green-Red) format, not RGB.
@@ -19,6 +19,12 @@ This Python script enables users to detect specific colors within images/videos.
 
 <div align="center">
 
-# `If you have any other scripts or features you'd like to see, feel free to ask!`
+### `If you have any other scripts or features you'd like to see, feel free to ask!`
+
+<p>
+<a href="https://linkedin.com/in/choaib-elmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="choaib-elmadi" height="30" width="40" /></a>
+<a href="https://fb.com/choaib.elmadi.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="choaib elmadi" height="30" width="40" /></a>
+<a href="https://instagram.com/choaib_elmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dot.algo" height="30" width="40" /></a>
+</p>
 
 </div>
