@@ -13,3 +13,9 @@ This Python script enables users to detect specific colors within images/videos.
     <p style="font-size: 20px; margin-top: 10px;">⬇️ Here, we choose <span style="color: yellow;">yellow</span> color ⬇️</p>
     <img src="./Assets/detect-specific-color-in-image.png" alt="Specific Color Detection In Image">
 </div>
+
+<div align="center">
+
+# `If you have any other scripts or features you'd like to see, feel free to ask!`
+
+</div>
