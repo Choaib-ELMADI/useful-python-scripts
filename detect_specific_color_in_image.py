@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 
 video_name = "boxes.mp4"
-video_path = f"C:\\Users\\Choaib ELMADI\\Downloads\\D.I.F.Y\\Web Development\\Web Dev\\9) Python\\Python Useful Scripts\\Assets\\{ video_name }"
+video_path = f"C:\\Users\\Choaib ELMADI\\Downloads\\D.I.F.Y\\Web Development\\Web Dev\\9) Python\\Useful Python Scripts\\Assets\\{ video_name }"
 
 cap = cv2.VideoCapture(video_path)
 frame_counter = 0
