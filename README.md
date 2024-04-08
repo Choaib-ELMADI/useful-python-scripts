@@ -4,7 +4,7 @@ This repository is a collection of handy Python scripts designed to assist you i
 
 # Available Scripts:
 
-## [1. Color Detection Script:](detect_specific_color_in_image.py)
+## [1. Color Object Detection Script:](detect_objects_with_color.py)
 
 This Python script enables users to detect specific colors within images/videos. <br>
 `Note:` The format of the color a user enters should be in BGR (Blue-Green-Red) format, not RGB.
@@ -13,7 +13,7 @@ This Python script enables users to detect specific colors within images/videos.
 
 ### `⬇️ Here, we choose yellow color ⬇️`
 
-<img src="./Assets/detect-specific-color-in-image.png" alt="Specific Color Detection In Image">
+<img src="./Assets/detect-objects-with-color.png" alt="Specific Color Detection In Image">
 
 </div>
 
