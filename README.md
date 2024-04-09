@@ -17,6 +17,30 @@ This Python script enables users to detect specific colors within images/videos.
 
 </div>
 
+## [2. Color Detection Script:](detect_color_in_image.py)
+
+### TODO
+
+## [3. Text Detection Script:](extract_text_from_image.py)
+
+This Python script enables users to detect text within images.
+
+<div align="center">
+
+<img src="./Assets/extract-text-from-image.png" alt="Extract Text From Image">
+
+</div>
+
+### `Before going to code, you need the following things:`
+
+- Download `tesseract-ocr.exe` from `https://github.com/UB-Mannheim/tesseract/wiki`.
+
+- Execute it.
+
+- Copy the installation path: By default it's `C:\Program Files\Tesseract-OCR\tesseract.exe`.
+
+- If needed, add more languages: Here `https://tesseract-ocr.github.io/tessdoc/Data-Files#data-files-for-version-400-november-29-2016`.
+
 <div align="center">
 
 ### `If you have any other scripts or features you'd like to see, feel free to ask!`
