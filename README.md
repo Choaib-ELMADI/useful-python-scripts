@@ -19,7 +19,7 @@ This Python script enables users to detect specific colors within images/videos.
 
 ## [2. Color Detection Script:](detect_color_in_image.py)
 
-### TODO
+### `⬇️ TODO ⬇️`
 
 ## [3. Text Detection Script:](extract_text_from_image.py)
 
@@ -31,7 +31,11 @@ This Python script enables users to detect text within images.
 
 </div>
 
-### `Before going to code, you need the following things:`
+<div align="center">
+
+### `⬇️ Before going to code, you need the following things ⬇️`
+
+</div>
 
 - Download `tesseract-ocr.exe` from `https://github.com/UB-Mannheim/tesseract/wiki`.
 
@@ -39,11 +43,11 @@ This Python script enables users to detect text within images.
 
 - Copy the installation path: By default it's `C:\Program Files\Tesseract-OCR\tesseract.exe`.
 
-- If needed, add more languages: Here `https://tesseract-ocr.github.io/tessdoc/Data-Files#data-files-for-version-400-november-29-2016`.
+- If needed, add more languages: Download the desired language from `https://tesseract-ocr.github.io/tessdoc/Data-Files#data-files-for-version-400-november-29-2016`, then include them here `C:\Program Files\Tesseract-OCR\tessdata`.
 
 <div align="center">
 
-### `If you have any other scripts or features you'd like to see, feel free to ask!`
+### `⬇️ If you have any other scripts or features you'd like to see, feel free to ask ⬇️`
 
 <p>
 <a href="https://linkedin.com/in/choaib-elmadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="choaib-elmadi" height="30" width="40" /></a>
