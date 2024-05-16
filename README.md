@@ -14,7 +14,7 @@ This Python script enables users to detect specific colors within images/videos.
 
 The format of the color a user enters should be in BGR (Blue-Green-Red) format, not RGB.
 
-`⬇Here, we choose yellow color`
+`Here, we choose yellow color`
 
 <img src="./Assets/detect-objects-with-color.png" alt="Specific Color Detection In Image">
 
